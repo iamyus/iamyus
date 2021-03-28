@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Frank 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=iamyushan.iamyushan)
+
 Now I'm working at Sou as a web frontend architect.
 
 **Languages and Tools:**  
