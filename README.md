@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamyushan.iamyushan)
 
-Now I'm working at Sou as a web frontend architect.
+Now I'm working at YuTech as a web frontend architect.
 
 **Languages and Tools:**  
 
