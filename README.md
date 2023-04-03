@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Frank 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamyushan.iamyushan)
+![](https://visitor-badge.glitch.me/badge?page_id=iamyus.iamyus)
 
 Now I'm working at YuTech as a web frontend architect.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/TypeScript-000?&logo=TypeScript&labelColor=000"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-000?&logo=React&labelColor=000"></code>
+<code><img height="20" src="https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000"></code>
+<code><img height="20" src="https://img.shields.io/badge/Prisma-000?&logo=Prisma&labelColor=000"></code>
+<code><img height="20" src="https://img.shields.io/badge/Nodejs%20%20%20%20-000?&logo=nodedotjs&labelColor=000"></code>
+<code><img height="20" src="https://img.shields.io/badge/Docker-000?&logo=Docker&labelColor=000"></code>
 
 <!-- [![iamyushan's github stats](https://github-readme-stats.vercel.app/api?username=iamyushan)](https://github.com/anuraghazra/github-readme-stats) -->
